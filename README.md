@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://1.bp.blogspot.com/-ARJs7dy9j7k/X-HXCP9q_gI/AAAAAAAAAbQ/Lm8RBIMnoHAJoHB96n-g6RQnSrh0A9ZngCLcBGAsYHQ/s320/OCP_clr.bmp" min-width="400px" max-width="400px" width="400px" align="right">
+<a href="https://www.credly.com/users/alex-maycon-da-silva/badges" alt="Credly">
+  <img src="https://1.bp.blogspot.com/-ARJs7dy9j7k/X-HXCP9q_gI/AAAAAAAAAbQ/Lm8RBIMnoHAJoHB96n-g6RQnSrh0A9ZngCLcBGAsYHQ/s320/OCP_clr.bmp" min-width="400px" max-width="400px" width="400px" align="right">
+</a>
 
 <p align="left">
   <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" height="30px width="30px" >
