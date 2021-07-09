@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.credly.com/users/alex-maycon-da-silva/badges" alt="Credly">
-  <img src="https://1.bp.blogspot.com/-ARJs7dy9j7k/X-HXCP9q_gI/AAAAAAAAAbQ/Lm8RBIMnoHAJoHB96n-g6RQnSrh0A9ZngCLcBGAsYHQ/s320/OCP_clr.bmp" min-width="400px" max-width="400px" width="400px" align="right">
+  <img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" min-width="400px" max-width="400px" width="400px" align="right">
 </a>
 
 <p align="left">
