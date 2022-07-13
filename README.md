@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
   💬 Skills: <br>
       &nbsp;&nbsp; :arrow_forward:	Advanced Oracle Development: <strong>Oracle Forms and Reports (all versions), Oracle Apex (all versions plus Oracle Rest Data Services), Oracle BI Publisher, Oracle Database (all versions) and PL/SQL</strong>. <br>
-      &nbsp;&nbsp; :arrow_forward: Technologies: <strong>Java, C#, Delphi, Dart and Flutter.</strong> <br>
+      &nbsp;&nbsp; :arrow_forward: Technologies: <strong>Java, C#, Dart and Flutter.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Database: <strong>Oracle, Microsoft SQL Server, MySQL and PostgreSQL.</strong> <br>
       &nbsp;&nbsp; :arrow_forward:	Tools:   <strong>Oracle Cloud Infrastructure (Console and Management), Pentaho Data Integration (ETL) is a plus.</strong> <br>
 </p>
